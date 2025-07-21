@@ -488,6 +488,88 @@
     ]
   },
   {
+    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
+    "nombre": "Maxifire | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-21"
+      }
+    ]
+  },
+  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -647,88 +729,6 @@
       },
       {
         "totalPoints": "24",
-        "date": "2025-07-21"
-      }
-    ]
-  },
-  {
-    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
-    "nombre": "Maxifire | NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "16",
         "date": "2025-07-21"
       }
     ]
@@ -2105,7 +2105,7 @@
   },
   {
     "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
-    "nombre": "Neomakensis",
+    "nombre": "-",
     "pointsHistory": [
       {
         "totalPoints": "16",
@@ -2896,6 +2896,10 @@
       {
         "totalPoints": "16",
         "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-21"
       }
     ]
   },
