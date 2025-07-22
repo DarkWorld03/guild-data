@@ -2692,6 +2692,92 @@
     ]
   },
   {
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
+    "pointsHistory": [
+      {
+        "totalPoints": "13",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
     "id": "0x4247fc0ed8655b6a5b92d1c3b27e767f4fe2ad77",
     "nombre": "Alejandro",
     "pointsHistory": [
@@ -3187,88 +3273,6 @@
       },
       {
         "totalPoints": "16",
-        "date": "2025-07-21"
-      }
-    ]
-  },
-  {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "13",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "18",
         "date": "2025-07-21"
       }
     ]
