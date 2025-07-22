@@ -492,6 +492,92 @@
     ]
   },
   {
+    "id": "0x15301feff97eb7014f3764e32c8f1fc581515bed",
+    "nombre": "Abrahan/NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "8",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
     "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
     "nombre": "Maxifire | NKL",
     "pointsHistory": [
@@ -811,88 +897,6 @@
       },
       {
         "totalPoints": "16",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-21"
-      }
-    ]
-  },
-  {
-    "id": "0x15301feff97eb7014f3764e32c8f1fc581515bed",
-    "nombre": "Abrahan/NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "8",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "24",
         "date": "2025-07-20"
       },
       {
