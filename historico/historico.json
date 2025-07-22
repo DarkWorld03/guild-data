@@ -2110,6 +2110,92 @@
     ]
   },
   {
+    "id": "0x6cb36f461b4f27195b4172856cd5ec2e3ed100e7",
+    "nombre": "CUBAxie",
+    "pointsHistory": [
+      {
+        "totalPoints": "10",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
     "id": "0x6deb4307580758b9499dcd9b0f3937918ca0ffa0",
     "nombre": "DC OFFER iamfreddiejose_04662",
     "pointsHistory": [
@@ -2351,88 +2437,6 @@
       },
       {
         "totalPoints": "24",
-        "date": "2025-07-21"
-      }
-    ]
-  },
-  {
-    "id": "0x6cb36f461b4f27195b4172856cd5ec2e3ed100e7",
-    "nombre": "CUBAxie",
-    "pointsHistory": [
-      {
-        "totalPoints": "10",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "16",
         "date": "2025-07-21"
       }
     ]
