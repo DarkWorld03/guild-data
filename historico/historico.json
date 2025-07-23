@@ -1952,6 +1952,96 @@
     ]
   },
   {
+    "id": "0xcc47a2b7920cd2effaf0f4554beb9564a049098f",
+    "nombre": "PEJESAPO 12",
+    "pointsHistory": [
+      {
+        "totalPoints": "4",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-22"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-23"
+      }
+    ]
+  },
+  {
     "id": "0x3da532c1daf719a46f505fc0f64c0f4ad8e6e1f3",
     "nombre": "Lunacian #5",
     "pointsHistory": [
@@ -2210,96 +2300,6 @@
       {
         "totalPoints": "24",
         "date": "2025-07-22"
-      }
-    ]
-  },
-  {
-    "id": "0xcc47a2b7920cd2effaf0f4554beb9564a049098f",
-    "nombre": "PEJESAPO 12",
-    "pointsHistory": [
-      {
-        "totalPoints": "4",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-22"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-23"
       }
     ]
   },
