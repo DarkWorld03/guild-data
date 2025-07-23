@@ -3104,88 +3104,6 @@
     ]
   },
   {
-    "id": "0xb7ba0c1c83fb78f6ca7de01b1d038267a8c1b8f5",
-    "nombre": "Paola",
-    "pointsHistory": [
-      {
-        "totalPoints": "8",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-22"
-      }
-    ]
-  },
-  {
     "id": "0xcd687083dd00e552e6cb12b322215a299bf9c2be",
     "nombre": "PANDA_VZLA",
     "pointsHistory": [
@@ -3267,6 +3185,88 @@
       },
       {
         "totalPoints": "21",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
+    "id": "0xb7ba0c1c83fb78f6ca7de01b1d038267a8c1b8f5",
+    "nombre": "Paola",
+    "pointsHistory": [
+      {
+        "totalPoints": "8",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "24",
         "date": "2025-07-22"
       }
     ]
@@ -3698,76 +3698,6 @@
     ]
   },
   {
-    "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
-    "nombre": "Crypto Queen",
-    "pointsHistory": [
-      {
-        "totalPoints": "10",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-22"
-      }
-    ]
-  },
-  {
     "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
     "nombre": "Elmer Noa Palma",
     "pointsHistory": [
@@ -3849,6 +3779,76 @@
       },
       {
         "totalPoints": "15",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
+    "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
+    "nombre": "Crypto Queen",
+    "pointsHistory": [
+      {
+        "totalPoints": "10",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "18",
         "date": "2025-07-22"
       }
     ]
