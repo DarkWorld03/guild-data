@@ -3,108 +3,88 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Nik3LodeuM | NkL Guild</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>Cargando Nik3LodeuM</title>
+  <style>
+    body, html {
+      margin: 0; padding: 0; height: 100%;
+      background: #151734;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    #loader {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      background: #151734;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      z-index: 9999;
+    }
+
+    .nklload {
+      display: flex;
+      gap: 32px;
+      font-weight: 900;
+      font-size: 5rem;
+      user-select: none;
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-30px); }
+    }
+
+    .n {
+      background: linear-gradient(180deg, #7ac7ff 0%, #0d3c83 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: bounce 1.5s ease-in-out infinite;
+      animation-delay: 0s;
+    }
+
+    .k {
+      background: linear-gradient(180deg, #d98eff 0%, #5a1e5a 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: bounce 1.5s ease-in-out infinite;
+      animation-delay: 0.3s;
+    }
+
+    .l {
+      background: linear-gradient(180deg, #8fd4ff 0%, #154a7a 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: bounce 1.5s ease-in-out infinite;
+      animation-delay: 0.6s;
+    }
+
+    #loader-text {
+      margin-top: 20px;
+      font-size: 2rem;
+      letter-spacing: 2px;
+      color: #c4b9ff;
+      text-shadow: 0 0 15px #8b82ffaa;
+    }
+  </style>
 </head>
 <body>
-  <nav>
-    <button onclick="mostrarSeccion('nikeladim')" class="activo">Nik3LodeuM</button>
-    <button onclick="mostrarSeccion('guilds')">Guilds</button>
-    <button onclick="mostrarSeccion('puntos')">Guild data</button>
-  </nav>
 
-  <section id="nikeladim" class="seccion activa">
-    <div class="guild-header">
-      <div class="guild-left" style="position: relative; width: 80px; height: 80px;">
-        <div class="flamas">
-          <div class="flama"></div>
-          <div class="flama"></div>
-          <div class="flama"></div>
-          <div class="flama"></div>
-          <div class="flama"></div>
-        </div>
-        <img id="guildLogo" src="logo.png" alt="Guild Logo" />
-      </div>
-      <div class="guild-center">
-        <h2>Guild: <span id="guildName">Cargando...</span></h2>
-      </div>
-      <div class="guild-right">
-        <div class="hex-container" role="region" aria-label="Ranking">
-          <div class="top-text">TOP</div>
-          <div class="number" id="guildRank">?</div>
-          <div class="flame" aria-hidden="true">
-            <div></div><div></div><div></div><div></div><div></div>
-          </div>
-        </div>
-      </div>
+  <div id="loader">
+    <div class="nklload">
+      <span class="n">N</span>
+      <span class="k">K</span>
+      <span class="l">L</span>
     </div>
-
-    <h2>Ranking de Jugadores</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Rank</th><th>Name</th><th>Points</th><th>Difference Points</th>
-        </tr>
-      </thead>
-      <tbody id="playersTable"></tbody>
-    </table>
-  </section>
-
-  <section id="guilds" class="seccion">
-    <h2>Ranking de Guilds</h2>
-    <table>
-      <thead>
-        <tr>
-          <th>Rank</th><th>Guild Name</th><th>Points</th><th>Difference Points</th>
-        </tr>
-      </thead>
-      <tbody id="guildsTable"></tbody>
-    </table>
-  </section>
-
-  <section id="puntos" class="seccion" style="margin:20px auto; width:98%; max-width:100%;">
-    <h1 style="margin-bottom:10px;">Estadísticas de cada jugador</h1>
-    <div class="botones-exportar" style="margin-bottom:10px;">
-      <button onclick="exportarExcel()">📥 Exportar Excel</button>
-      <button onclick="exportarPDF()">📄 Exportar PDF</button>
-    </div>
-    <div class="tabla-scroll" id="tablaScroll">
-      <table id="guildDataTable">
-        <thead id="historicoThead"></thead>
-        <tbody id="historicoTbody"></tbody>
-      </table>
-    </div>
-  </section>
-
-  <!-- Botón info fijo abajo derecha -->
-  <button id="btnInfo" aria-label="Mostrar información">i</button>
-
-  <!-- Cuadro de información -->
-  <div id="infoBox" role="region" aria-live="polite" aria-hidden="true">
-    &copy; 2025 Axie Guild.<br />
-    <p>Creado por: Jorge Adriel González</p>
+    <div id="loader-text">Cargando datos...</div>
   </div>
 
-  <script src="script.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.23/jspdf.plugin.autotable.min.js"></script>
   <script>
-    // Inicializar el ranking por defecto
-    function actualizarRank(numero) {
-      document.getElementById('guildRank').textContent = numero;
-    }
-    document.addEventListener('DOMContentLoaded', () => {
-      actualizarRank(1);
-    });
-
-    // Mostrar / ocultar infoBox
-    const btnInfo = document.getElementById('btnInfo');
-    const infoBox = document.getElementById('infoBox');
-    btnInfo.addEventListener('click', () => {
-      const visible = infoBox.classList.toggle('visible');
-      infoBox.setAttribute('aria-hidden', !visible);
-    });
+    // Espera 3 segundos y redirige al index real
+    setTimeout(() => {
+      window.location.href = "loader.html";
+    }, 2500); // Cambia el tiempo si quieres
   </script>
 </body>
 </html>
