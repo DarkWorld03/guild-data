@@ -1,0 +1,647 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background: url('logopro.png') no-repeat center center fixed;
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  margin: 0;
+  padding: 0;
+}
+
+/* Wrapper para scroll sincronizado (Guild Data) */
+.tabla-scroll {
+  position: relative;
+  width: 100%;
+  max-height: 673px;
+  overflow-x: auto;
+  overflow-y: auto;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 8px;
+  background: rgba(0,0,0,0.4);
+  margin: 0 auto;
+}
+
+/* Eliminamos scroll-horizontal duplicado innecesario */
+.scroll-horizontal {
+  display: none;
+}
+
+/* Estilo general de la tabla */
+#guildDataTable {
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: auto;
+  font-size: 14px;
+}
+
+/* Encabezados generales */
+#guildDataTable th {
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  vertical-align: bottom;
+  font-weight: bold;
+}
+
+/* Celdas */
+#guildDataTable td {
+  border: 1px solid #ddd;
+  padding: 6px;
+  text-align: center;
+}
+
+/* Encabezado de "Nombre" */
+#guildDataTable th:nth-child(1),
+#guildDataTable td:nth-child(1) {
+  width: 250px;
+  white-space: nowrap;
+  text-align: left;
+}
+
+/* Encabezados de Total y Promedio */
+#guildDataTable th:nth-child(2),
+#guildDataTable td:nth-child(2),
+#guildDataTable th:nth-child(3),
+#guildDataTable td:nth-child(3) {
+  width: 80px;
+}
+
+/* Encabezados de fechas rotados */
+#guildDataTable th.fecha {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  white-space: nowrap;
+  padding: 5px;
+  font-size: 12px;
+  min-width: 30px;
+  max-width: 30px;
+}
+
+/* Celdas de fechas */
+#guildDataTable td.fecha {
+  min-width: 30px;
+  max-width: 30px;
+  font-size: 13px;
+  padding: 4px;
+}
+
+/* Scroll horizontal */
+.tabla-scroll {
+  overflow-x: auto;
+  /* overflow-y: hidden; */
+  white-space: nowrap;
+  max-width: 100%;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+/* ❌ Eliminar efecto hover */
+#guildDataTable tbody tr:hover {
+  background: inherit;
+}
+
+/* ❌ Eliminar alternancia de filas */
+#guildDataTable tbody tr:nth-child(even) {
+  background: inherit;
+}
+
+/* ✅ Estilo uniforme para todas las filas */
+#guildDataTable tbody tr {
+  background: linear-gradient(135deg, #414b67 0%, #2e3854 100%);
+}
+
+/* El resto del CSS se mantiene igual... */
+.seccion {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  display: none;
+  margin: 20px auto;
+  width: 95%;
+  max-width: 1200px;
+}
+
+.seccion.activa {
+  display: block;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+button {
+  background-color: #414b67;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: background 0.3s, transform 0.2s;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+  background-color: #2e3854;
+  transform: scale(1.05);
+}
+
+button.activo {
+  background-color: #4ab3ff;
+  color: white;
+  font-weight: bold;
+}
+
+table {
+  margin: 0;
+  border-collapse: collapse;
+  background: linear-gradient(135deg, #414b67 0%, #2e3854 100%);
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  overflow: hidden;
+  table-layout: fixed;
+  width: 100%;
+}
+
+thead {
+  background: #ffffff;
+  color: black;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+tbody tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+tbody tr:nth-child(1) td:first-child {
+  color: #ffcc00;
+  font-size: 20px;
+}
+tbody tr:nth-child(2) td:first-child {
+  color: #c0c0c0;
+  font-size: 19px;
+}
+tbody tr:nth-child(3) td:first-child {
+  color: #cd7f32;
+  font-size: 18px;
+}
+tbody tr:nth-child(n+4) td:first-child {
+  color: #ffffff;
+  font-size: 16px;
+}
+
+#historicoTable th:nth-child(1),
+#historicoTable td:nth-child(1) {
+  width: 60px;
+}
+
+#historicoTable th:nth-child(2),
+#historicoTable td:nth-child(2) {
+  width: 280px;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#historicoTable th:nth-child(3),
+#historicoTable td:nth-child(3) {
+  width: 120px;
+  color: #1db954;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#historicoTable th:nth-child(4),
+#historicoTable td:nth-child(4) {
+  width: 150px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+td:nth-child(2) > .flex-name-img {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.flex-name-img img {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.flex-name-img a {
+  color: #4ab3ff;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.flex-name-img a:hover {
+  text-decoration: underline;
+  color: #ffcc00;
+}
+
+.guild-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(65, 75, 103, 0.6);
+  border-radius: 10px;
+  padding: 10px 30px;
+  margin-bottom: 20px;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.guild-header img {
+  height: 80px;
+  width: 80px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  margin-right: 10px;
+
+  /* Aquí agregamos las clases para la llama intensa */
+  position: relative;
+  z-index: 3;
+  box-shadow:
+    0 0 25px #7f00ffcc,
+    0 0 40px #9d00ffdd,
+    0 0 60px #bd00ffee;
+}
+
+/* Contenedor para las llamas */
+.guild-header .flamas {
+  position: absolute;
+  bottom: -20px; /* un poco abajo */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 120px;
+  height: 180px;
+  pointer-events: none;
+  z-index: 2;
+  filter: drop-shadow(0 0 10px #7f00ffaa);
+}
+
+/* Cada llama */
+.guild-header .flama {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 30px;
+  height: 160px;
+  background: radial-gradient(ellipse at bottom center, #9d00ff, transparent 80%);
+  border-radius: 50% 50% 45% 45% / 100% 100% 0 0;
+  filter: blur(9px);
+  animation: subirLlama 1.6s ease-in-out infinite;
+  opacity: 0.8;
+  transform-origin: bottom center;
+  mix-blend-mode: screen;
+}
+
+/* Varias llamas para efecto fuerte */
+.guild-header .flama:nth-child(1) {
+  left: 25%;
+  width: 28px;
+  height: 170px;
+  animation-delay: 0s;
+  background: radial-gradient(ellipse at bottom center, #bd00ff, transparent 75%);
+}
+.guild-header .flama:nth-child(2) {
+  left: 45%;
+  width: 32px;
+  height: 180px;
+  animation-delay: 0.3s;
+  background: radial-gradient(ellipse at bottom center, #d500ff, transparent 70%);
+}
+.guild-header .flama:nth-child(3) {
+  left: 55%;
+  width: 26px;
+  height: 165px;
+  animation-delay: 0.6s;
+  background: radial-gradient(ellipse at bottom center, #8a00d4, transparent 80%);
+}
+.guild-header .flama:nth-child(4) {
+  left: 70%;
+  width: 30px;
+  height: 160px;
+  animation-delay: 0.9s;
+  background: radial-gradient(ellipse at bottom center, #c700ff, transparent 70%);
+}
+.guild-header .flama:nth-child(5) {
+  left: 60%;
+  width: 35px;
+  height: 180px;
+  animation-delay: 1.2s;
+  background: radial-gradient(ellipse at bottom center, #a400ff, transparent 70%);
+}
+
+@keyframes subirLlama {
+  0% {
+    transform: translateX(-50%) translateY(0) scaleY(1) skewX(0deg);
+    opacity: 0.7;
+    filter: blur(9px);
+  }
+  50% {
+    transform: translateX(calc(-50% + 10px)) translateY(-40px) scaleY(1.3) skewX(7deg);
+    opacity: 1;
+    filter: blur(4px);
+  }
+  75% {
+    transform: translateX(calc(-50% - 10px)) translateY(-70px) scaleY(1.4) skewX(-7deg);
+    opacity: 0.9;
+    filter: blur(5px);
+  }
+  100% {
+    transform: translateX(-50%) translateY(0) scaleY(1) skewX(0deg);
+    opacity: 0.7;
+    filter: blur(9px);
+  }
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  table {
+      font-size: 14px;
+      table-layout: auto;
+  }
+
+  td:nth-child(2) {
+      white-space: normal;
+  }
+
+  td:nth-child(2) > .flex-name-img {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .flex-name-img img {
+      height: 60px;
+      width: 60px;
+      margin-bottom: 5px;
+  }
+
+  .flex-name-img a {
+      font-size: 14px;
+      word-break: break-word;
+      white-space: normal;
+      display: block;
+      max-width: 100px;
+      text-align: center;
+  }
+
+  .guild-header {
+      flex-direction: column;
+      gap: 8px;
+  }
+
+  .guild-header h1 {
+      text-align: center;
+      font-size: 20px;
+  }
+
+  .guild-rank {
+      font-size: 20px;
+  }
+
+  .botones-exportar {
+      margin-bottom: 10px;
+      display: flex;
+      gap: 10px;
+  }
+
+  .botones-exportar button {
+      padding: 8px 12px;
+      border: none;
+      border-radius: 8px;
+      background-color: #2196f3;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+  }
+
+  .botones-exportar button:hover {
+      background-color: #1976d2;
+  }
+}
+
+/* --- HEXÁGONO CON LLAMA ANIMADA --- */
+.hex-container {
+  position: relative;
+  width: 80px;
+  height: 70px;
+  clip-path: polygon(
+    25% 0%, 75% 0%, 
+    100% 50%, 75% 100%, 
+    25% 100%, 0% 50%
+  );
+  background: linear-gradient(135deg, #9d00ff, #00aaff);
+  box-shadow:
+    0 0 15px #9d00ff,
+    0 0 30px #00aaff,
+    inset 0 0 20px #9d00ff;
+  animation: flameGlow 2.5s ease-in-out infinite;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #e0e0ff;
+  font-weight: 900;
+  user-select: none;
+  padding-top: 10px;    /* Subimos el padding superior */
+  padding-bottom: 5px;
+  gap: 2px;             /* Espacio pequeño entre TOP y número */
+}
+
+.top-text {
+  font-size: 14px;
+  letter-spacing: 2px;
+  margin: 0;            /* Eliminamos margin para controlar con padding */
+  line-height: 1;
+  text-shadow:
+    0 0 8px #00aaff,
+    0 0 15px #9d00ff,
+    0 0 18px #9d00ff;
+}
+
+.number {
+  font-size: 32px;
+  line-height: 1;
+  text-shadow:
+    0 0 8px #00aaff,
+    0 0 15px #9d00ff,
+    0 0 18px #9d00ff;
+}
+
+/* Ajustamos la llama para que no tape el texto */
+.flame {
+  position: absolute;
+  top: -40px;  /* Bajamos un poco la llama para que no tape TOP */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 65px;
+  filter: drop-shadow(0 0 8px #7f00ffaa);
+  pointer-events: none;
+  z-index: -1;
+}
+
+.flame > div {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 12px;
+  height: 50px;
+  background: radial-gradient(ellipse at bottom center, #bd00ff, transparent 75%);
+  border-radius: 50% 50% 45% 45% / 100% 100% 0 0;
+  filter: blur(5px);
+  animation: subirLlama 1.6s ease-in-out infinite;
+  opacity: 0.85;
+  transform-origin: bottom center;
+  mix-blend-mode: screen;
+}
+
+.flame > div:nth-child(1) {
+  left: 20%;
+  width: 12px;
+  height: 55px;
+  animation-delay: 0s;
+}
+.flame > div:nth-child(2) {
+  left: 40%;
+  width: 14px;
+  height: 65px;
+  animation-delay: 0.3s;
+}
+.flame > div:nth-child(3) {
+  left: 55%;
+  width: 11px;
+  height: 50px;
+  animation-delay: 0.6s;
+}
+.flame > div:nth-child(4) {
+  left: 70%;
+  width: 12px;
+  height: 45px;
+  animation-delay: 0.9s;
+}
+.flame > div:nth-child(5) {
+  left: 60%;
+  width: 15px;
+  height: 65px;
+  animation-delay: 1.2s;
+}
+
+
+
+@keyframes subirLlama {
+  0% {
+    transform: translateX(-50%) translateY(0) scaleY(1) skewX(0deg);
+    opacity: 0.7;
+    filter: blur(8px);
+  }
+  50% {
+    transform: translateX(calc(-50% + 12px)) translateY(-45px) scaleY(1.3) skewX(7deg);
+    opacity: 1;
+    filter: blur(4px);
+  }
+  75% {
+    transform: translateX(calc(-50% - 12px)) translateY(-70px) scaleY(1.4) skewX(-7deg);
+    opacity: 0.9;
+    filter: blur(5px);
+  }
+  100% {
+    transform: translateX(-50%) translateY(0) scaleY(1) skewX(0deg);
+    opacity: 0.7;
+    filter: blur(8px);
+  }
+}
+
+@keyframes flameGlow {
+  0%, 100% {
+    box-shadow:
+      0 0 25px #9d00ff,
+      0 0 50px #00aaff,
+      inset 0 0 35px #9d00ff;
+    transform: scale(1);
+  }
+  50% {
+    box-shadow:
+      0 0 50px #9d00ff,
+      0 0 90px #00aaff,
+      inset 0 0 65px #9d00ff;
+    transform: scale(1.05);
+  }
+}
+/* Botón info fijo abajo derecha */
+
+/* Botón info fijo en la esquina inferior derecha */
+#btnInfo {
+  position: fixed !important;
+  bottom: 20px;
+  right: 20px;
+  width: 36px;
+  height: 36px;
+  background-color: #4ab3ff;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 0 8px #4ab3ffaa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+/* InfoBox fijo arriba del botón */
+#infoBox {
+  position: fixed !important;
+  bottom: 70px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.85);
+  color: #ccc;
+  padding: 12px 16px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #4ab3ffcc;
+  font-size: 14px;
+  line-height: 1.4;
+  max-width: 280px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 9999;
+}
+#infoBox.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
