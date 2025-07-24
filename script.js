@@ -153,8 +153,10 @@ async function cargarDatosHistoricos() {
 
     const fechas = [...new Set(data.flatMap(j => j.pointsHistory.map(p => p.date)))].sort();
 
+    // Encabezado
     const trHead = document.createElement("tr");
     trHead.innerHTML = `
+      <th>Rank</th>
       <th>Nombre</th>
       <th>Total</th>
       <th>Promedio</th>
@@ -162,20 +164,76 @@ async function cargarDatosHistoricos() {
     `;
     thead.appendChild(trHead);
 
-    data.forEach(jugador => {
-      const pointsMap = Object.fromEntries(jugador.pointsHistory.map(p => [p.date, p.totalPoints]));
+    // Determinar top 50 por fecha
+    const top50PorFecha = {};
+    fechas.forEach(fecha => {
+      const conPuntos = data.map(j => {
+        const entry = j.pointsHistory.find(p => p.date === fecha);
+        return { nombre: j.nombre, puntos: entry ? parseInt(entry.totalPoints) : 0 };
+      });
+      conPuntos.sort((a, b) => b.puntos - a.puntos);
+
+      const top = [];
+      const vistos = new Set();
+      for (let i = 0; i < conPuntos.length && top.length < 50; i++) {
+        const jugador = conPuntos[i];
+        if (!vistos.has(jugador.nombre)) {
+          top.push(jugador.nombre);
+          vistos.add(jugador.nombre);
+        }
+      }
+      top50PorFecha[fecha] = new Set(top);
+    });
+
+    // Inicializar sumas por fecha
+    const sumas = {};
+    fechas.forEach(f => sumas[f] = 0);
+
+    // Ordenar por total
+    data.sort((a, b) => {
+      const aTotal = a.pointsHistory.reduce((acc, p) => acc + parseInt(p.totalPoints), 0);
+      const bTotal = b.pointsHistory.reduce((acc, p) => acc + parseInt(p.totalPoints), 0);
+      return bTotal - aTotal;
+    });
+
+    data.forEach((jugador, index) => {
+      const mapaPuntos = Object.fromEntries(jugador.pointsHistory.map(p => [p.date, parseInt(p.totalPoints)]));
       const total = jugador.pointsHistory.reduce((acc, p) => acc + parseInt(p.totalPoints), 0);
-      const promedio = (total / jugador.pointsHistory.length).toFixed(2);
+      const promedio = jugador.pointsHistory.length ? (total / jugador.pointsHistory.length) : 0;
 
       const tr = document.createElement("tr");
       tr.innerHTML = `
+        <td>${index + 1}</td>
         <td>${jugador.nombre}</td>
         <td style="color: #1db954; font-weight: bold;">${total}</td>
-        <td style="color: ${promedio < 16 ? 'red' : '#1db954'}; font-weight: bold;">${promedio}</td>
-        ${fechas.map(f => `<td style="text-align:center;">${pointsMap[f] ?? "-"}</td>`).join("")}
+        <td style="color: ${promedio < 16 ? 'red' : '#1db954'}; font-weight: bold;">${promedio.toFixed(2)}</td>
+        ${fechas.map(f => {
+          const puntos = mapaPuntos[f] ?? "-";
+          const enTop50 = top50PorFecha[f].has(jugador.nombre);
+          const color = puntos === "-" ? "#aaa" : (enTop50 ? "#1db954" : "red");
+          if (enTop50 && puntos !== "-") {
+            sumas[f] += puntos;
+          }
+          return `<td style="text-align:center; font-weight:bold; color: ${color};">${puntos}</td>`;
+        }).join("")}
       `;
       tbody.appendChild(tr);
     });
+
+    // Calcular total y promedio de los top 50 por fecha
+    const totalTop50 = fechas.reduce((acc, f) => acc + sumas[f], 0);
+    const promedioTop50 = fechas.length > 0 ? (totalTop50 / fechas.length) : 0;
+
+    // Fila de sumas finales (solo top 50)
+    const trSumas = document.createElement("tr");
+    trSumas.innerHTML = `
+      <td></td>
+      <td style="text-align:right; font-weight:bold;">Total Top 50</td>
+      <td style="text-align:center; font-weight:bold; color:#1db954;">${totalTop50}</td>
+      <td style="text-align:center; font-weight:bold; color:#1db954;">${promedioTop50.toFixed(2)}</td>
+      ${fechas.map(f => `<td style="text-align:center; font-weight:bold; color:#1db954;">${sumas[f]}</td>`).join("")}
+    `;
+    tbody.appendChild(trSumas);
 
   } catch (error) {
     console.error("❌ Error cargando datos históricos:", error);
