@@ -1866,6 +1866,96 @@
     ]
   },
   {
+    "id": "0xcc47a2b7920cd2effaf0f4554beb9564a049098f",
+    "nombre": "PEJESAPO 12",
+    "pointsHistory": [
+      {
+        "totalPoints": "4",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-22"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-07-23"
+      }
+    ]
+  },
+  {
     "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
     "nombre": "Chri$🐉",
     "pointsHistory": [
@@ -1952,31 +2042,31 @@
     ]
   },
   {
-    "id": "0xcc47a2b7920cd2effaf0f4554beb9564a049098f",
-    "nombre": "PEJESAPO 12",
+    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
+    "nombre": "Neomakensis",
     "pointsHistory": [
       {
-        "totalPoints": "4",
+        "totalPoints": "16",
         "date": "2025-07-03"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "10",
         "date": "2025-07-04"
       },
       {
-        "totalPoints": "8",
+        "totalPoints": "12",
         "date": "2025-07-05"
       },
       {
-        "totalPoints": "10",
+        "totalPoints": "12",
         "date": "2025-07-06"
       },
       {
-        "totalPoints": "12",
+        "totalPoints": "15",
         "date": "2025-07-07"
       },
       {
-        "totalPoints": "21",
+        "totalPoints": "18",
         "date": "2025-07-08"
       },
       {
@@ -1984,23 +2074,23 @@
         "date": "2025-07-09"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "15",
         "date": "2025-07-10"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "16",
         "date": "2025-07-11"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "21",
         "date": "2025-07-12"
       },
       {
-        "totalPoints": "21",
+        "totalPoints": "18",
         "date": "2025-07-13"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "6",
         "date": "2025-07-14"
       },
       {
@@ -2008,11 +2098,11 @@
         "date": "2025-07-15"
       },
       {
-        "totalPoints": "24",
+        "totalPoints": "18",
         "date": "2025-07-16"
       },
       {
-        "totalPoints": "24",
+        "totalPoints": "18",
         "date": "2025-07-17"
       },
       {
@@ -2020,11 +2110,11 @@
         "date": "2025-07-18"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "18",
         "date": "2025-07-19"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "21",
         "date": "2025-07-20"
       },
       {
@@ -2032,11 +2122,11 @@
         "date": "2025-07-21"
       },
       {
-        "totalPoints": "21",
+        "totalPoints": "24",
         "date": "2025-07-22"
       },
       {
-        "totalPoints": "10",
+        "totalPoints": "8",
         "date": "2025-07-23"
       }
     ]
@@ -2214,96 +2304,6 @@
       {
         "totalPoints": "20",
         "date": "2025-07-22"
-      }
-    ]
-  },
-  {
-    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
-    "nombre": "Neomakensis",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-22"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-07-23"
       }
     ]
   },
@@ -3270,6 +3270,92 @@
     ]
   },
   {
+    "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
+    "nombre": "+24",
+    "pointsHistory": [
+      {
+        "totalPoints": "10",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
     "id": "0xe43f3d832f995f6fc27330b4e6937a3207bd1f67",
     "nombre": "Lunacian #25834955",
     "pointsHistory": [
@@ -3356,92 +3442,6 @@
       {
         "totalPoints": "24",
         "date": "2025-07-23"
-      }
-    ]
-  },
-  {
-    "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
-    "nombre": "+24",
-    "pointsHistory": [
-      {
-        "totalPoints": "10",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "4",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-22"
       }
     ]
   },
@@ -3614,6 +3614,76 @@
     ]
   },
   {
+    "id": "0x70aff588d67bcdc4424c26268ab8e5990454565a",
+    "nombre": "Fierce Deity",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-10"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-22"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-23"
+      }
+    ]
+  },
+  {
     "id": "0xf3785c5d3e4d1d72c66c6bf07d25216bffc6b26d",
     "nombre": "ALFREDO",
     "pointsHistory": [
@@ -3699,76 +3769,6 @@
       },
       {
         "totalPoints": "13",
-        "date": "2025-07-23"
-      }
-    ]
-  },
-  {
-    "id": "0x70aff588d67bcdc4424c26268ab8e5990454565a",
-    "nombre": "Fierce Deity",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-10"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-22"
-      },
-      {
-        "totalPoints": "24",
         "date": "2025-07-23"
       }
     ]
@@ -3950,6 +3950,88 @@
     ]
   },
   {
+    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
+    "nombre": "GodLaw",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-07-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-06"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-07-07"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-07-08"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-09"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-07-11"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-07-12"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-13"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-14"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-07-15"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-07-16"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-17"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-07-18"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-19"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-07-20"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-21"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-07-22"
+      }
+    ]
+  },
+  {
     "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
     "nombre": "Elmer Noa Palma",
     "pointsHistory": [
@@ -4036,88 +4118,6 @@
       {
         "totalPoints": "4",
         "date": "2025-07-23"
-      }
-    ]
-  },
-  {
-    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
-    "nombre": "GodLaw",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-07-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-05"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-07-07"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-07-08"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-09"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-07-11"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-07-12"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-13"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-14"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-07-15"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-07-16"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-17"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-07-18"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-19"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-07-20"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-21"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-07-22"
       }
     ]
   },
