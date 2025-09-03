@@ -602,20 +602,6 @@
     ]
   },
   {
-    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
-    "nombre": "Chucky",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      }
-    ]
-  },
-  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -630,6 +616,20 @@
       {
         "totalPoints": "2",
         "date": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
+    "nombre": "Chucky",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
       }
     ]
   },
