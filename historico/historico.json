@@ -370,6 +370,24 @@
     ]
   },
   {
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
     "id": "0x0104d390a72c22dd58794fe39400ab4970a31e0f",
     "nombre": "Boaz | NKL",
     "pointsHistory": [
@@ -524,24 +542,6 @@
     ]
   },
   {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "2",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
     "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
     "nombre": "TAIKIRISI",
     "pointsHistory": [
@@ -606,6 +606,24 @@
     ]
   },
   {
+    "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
+    "nombre": "QbanCrypto",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
     "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
     "nombre": "Storm2206 | Nova",
     "pointsHistory": [
@@ -619,24 +637,6 @@
       },
       {
         "totalPoints": "15",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
-    "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
-    "nombre": "QbanCrypto",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "9",
         "date": "2025-09-03"
       }
     ]
