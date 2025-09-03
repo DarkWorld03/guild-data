@@ -456,6 +456,24 @@
     ]
   },
   {
+    "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
+    "nombre": "Chri$🐉",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -469,24 +487,6 @@
       },
       {
         "totalPoints": "16",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
-    "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
-    "nombre": "Chri$🐉",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "4",
         "date": "2025-09-03"
       }
     ]
@@ -634,6 +634,24 @@
     ]
   },
   {
+    "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
+    "nombre": "ZirAlamino",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "2",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
     "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
     "nombre": "JG.07",
     "pointsHistory": [
@@ -658,24 +676,6 @@
       {
         "totalPoints": "18",
         "date": "2025-09-02"
-      }
-    ]
-  },
-  {
-    "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
-    "nombre": "ZirAlamino",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "2",
-        "date": "2025-09-03"
       }
     ]
   },
