@@ -520,24 +520,6 @@
     ]
   },
   {
-    "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
-    "nombre": "TAIKIRISI",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -551,6 +533,24 @@
       },
       {
         "totalPoints": "10",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
+    "nombre": "TAIKIRISI",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
         "date": "2025-09-03"
       }
     ]
