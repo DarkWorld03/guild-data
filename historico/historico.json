@@ -728,7 +728,16 @@
   {
     "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
     "nombre": "KimchiKrazyKamuti",
-    "pointsHistory": []
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      }
+    ]
   },
   {
     "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
