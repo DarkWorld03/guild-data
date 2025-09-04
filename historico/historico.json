@@ -300,6 +300,28 @@
     ]
   },
   {
+    "id": "0xcabe6ba28af47992f7324e370ef03d0cc8e8de61",
+    "nombre": "Antonio | NKL🇻🇪",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
     "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
     "nombre": "pulperoMA",
     "pointsHistory": [
@@ -420,24 +442,6 @@
       {
         "totalPoints": "18",
         "date": "2025-09-04"
-      }
-    ]
-  },
-  {
-    "id": "0xcabe6ba28af47992f7324e370ef03d0cc8e8de61",
-    "nombre": "Antonio | NKL🇻🇪",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
       }
     ]
   },
@@ -1154,6 +1158,11 @@
         "date": "2025-09-02"
       }
     ]
+  },
+  {
+    "id": "0xbe15fa2aa06c70000872c9a860697af3862014d4",
+    "nombre": "BaDBoY97",
+    "pointsHistory": []
   },
   {
     "id": "0x77989483c4388188a41db37b23d8f64bc25d6a9b",
