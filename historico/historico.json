@@ -36,6 +36,28 @@
     ]
   },
   {
+    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
+    "nombre": "⚡ Jayriuz ⚡",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
     "id": "0x2ea0f9e357dad92e7822763a5b9de0f686899f61",
     "nombre": "Nik3LodeuM23",
     "pointsHistory": [
@@ -103,24 +125,6 @@
       },
       {
         "totalPoints": "12",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
-    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
-    "nombre": "⚡ Jayriuz ⚡",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
         "date": "2025-09-03"
       }
     ]
