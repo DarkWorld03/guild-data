@@ -538,6 +538,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-03"
       }
     ]
   },
@@ -905,20 +909,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-02"
-      }
-    ]
-  },
-  {
-    "id": "0x9444264b0dcfd1d50b8b0245d8a5e7588ecdacb4",
-    "nombre": "le",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
         "date": "2025-09-02"
       }
     ]
