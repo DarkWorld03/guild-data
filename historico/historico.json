@@ -678,6 +678,28 @@
     ]
   },
   {
+    "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
+    "nombre": "Mikel Rage",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
     "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
     "nombre": "GodLaw",
     "pointsHistory": [
@@ -713,28 +735,6 @@
       },
       {
         "totalPoints": "15",
-        "date": "2025-09-04"
-      }
-    ]
-  },
-  {
-    "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
-    "nombre": "Mikel Rage",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-04"
       }
     ]
