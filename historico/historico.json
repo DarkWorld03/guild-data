@@ -718,6 +718,28 @@
     ]
   },
   {
+    "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
+    "nombre": "Mikel Rage",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
     "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
     "nombre": "Neomakensis",
     "pointsHistory": [
@@ -855,28 +877,6 @@
       },
       {
         "totalPoints": "15",
-        "date": "2025-09-04"
-      }
-    ]
-  },
-  {
-    "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
-    "nombre": "Mikel Rage",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "4",
         "date": "2025-09-04"
       }
     ]
