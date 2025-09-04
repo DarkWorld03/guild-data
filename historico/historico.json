@@ -508,6 +508,28 @@
     ]
   },
   {
+    "id": "0xb7f131dd2ea0a045b4d50654fe9cc6aba44e088a",
+    "nombre": "Mike Beca",
+    "pointsHistory": [
+      {
+        "totalPoints": "9",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "2",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
     "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
     "nombre": "Neomakensis",
     "pointsHistory": [
@@ -575,24 +597,6 @@
       },
       {
         "totalPoints": "15",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
-    "id": "0xb7f131dd2ea0a045b4d50654fe9cc6aba44e088a",
-    "nombre": "Mike Beca",
-    "pointsHistory": [
-      {
-        "totalPoints": "9",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
         "date": "2025-09-03"
       }
     ]
@@ -1008,6 +1012,24 @@
       {
         "totalPoints": "10",
         "date": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "id": "0x84fab2bddbb46a67583d3e4782084033eefc3837",
+    "nombre": "-",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
       }
     ]
   },
