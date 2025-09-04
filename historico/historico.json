@@ -1012,24 +1012,6 @@
     ]
   },
   {
-    "id": "0x84fab2bddbb46a67583d3e4782084033eefc3837",
-    "nombre": "-",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      }
-    ]
-  },
-  {
     "id": "0x577ad859b60e63bc8c0a6ce9d532e30122c8664b",
     "nombre": "Veneprox",
     "pointsHistory": [
