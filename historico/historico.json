@@ -928,7 +928,24 @@
   {
     "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
     "nombre": "Maximo",
-    "pointsHistory": []
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      }
+    ]
   },
   {
     "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
