@@ -1264,11 +1264,6 @@
     ]
   },
   {
-    "id": "0xbe15fa2aa06c70000872c9a860697af3862014d4",
-    "nombre": "BaDBoY97",
-    "pointsHistory": []
-  },
-  {
     "id": "0x77989483c4388188a41db37b23d8f64bc25d6a9b",
     "nombre": "Llámame",
     "pointsHistory": [
@@ -1283,7 +1278,16 @@
       {
         "totalPoints": "32",
         "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "2",
+        "date": "2025-09-05"
       }
     ]
+  },
+  {
+    "id": "0xbe15fa2aa06c70000872c9a860697af3862014d4",
+    "nombre": "BaDBoY97",
+    "pointsHistory": []
   }
 ]
