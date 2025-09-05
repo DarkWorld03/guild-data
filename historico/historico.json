@@ -756,6 +756,32 @@
     ]
   },
   {
+    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
+    "nombre": "Neomakensis",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
     "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
     "nombre": "pulperoMA",
     "pointsHistory": [
@@ -870,28 +896,6 @@
       {
         "totalPoints": "9",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
-    "nombre": "Neomakensis",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
       }
     ]
   },
