@@ -530,6 +530,32 @@
     ]
   },
   {
+    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+    "nombre": "Maximo",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -577,6 +603,32 @@
       },
       {
         "totalPoints": "21",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "10",
         "date": "2025-09-05"
       }
     ]
@@ -808,32 +860,6 @@
     ]
   },
   {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0x0104d390a72c22dd58794fe39400ab4970a31e0f",
     "nombre": "Boaz | NKL",
     "pointsHistory": [
@@ -926,28 +952,6 @@
       {
         "totalPoints": "9",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
-    "nombre": "Maximo",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-04"
       }
     ]
   },
