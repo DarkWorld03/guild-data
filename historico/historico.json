@@ -378,28 +378,6 @@
     ]
   },
   {
-    "id": "0x424866df0d3809483029ff00de172b58f349ee40",
-    "nombre": "Carloseuc",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      }
-    ]
-  },
-  {
     "id": "0xc61220133c14c750b7a92e8e14901e4234210a79",
     "nombre": "ChA0S",
     "pointsHistory": [
@@ -422,6 +400,28 @@
       {
         "totalPoints": "2",
         "date": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "id": "0x424866df0d3809483029ff00de172b58f349ee40",
+    "nombre": "Carloseuc",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
       }
     ]
   },
