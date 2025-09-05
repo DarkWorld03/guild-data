@@ -652,6 +652,32 @@
     ]
   },
   {
+    "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
+    "nombre": "Chri$🐉",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
     "id": "0xc61220133c14c750b7a92e8e14901e4234210a79",
     "nombre": "ChA0S",
     "pointsHistory": [
@@ -699,32 +725,6 @@
       },
       {
         "totalPoints": "13",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
-    "nombre": "Chri$🐉",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "8",
         "date": "2025-09-05"
       }
     ]
