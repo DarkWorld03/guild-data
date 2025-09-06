@@ -206,6 +206,36 @@
     ]
   },
   {
+    "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
+    "nombre": "CHITOX DC: chitox00",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xb320e67664d55128e4cff435321b2aa5d8e07280",
     "nombre": "Dark World",
     "pointsHistory": [
@@ -291,36 +321,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-06"
-      }
-    ]
-  },
-  {
-    "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
-    "nombre": "CHITOX DC: chitox00",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "12",
         "date": "2025-09-06"
       }
     ]
@@ -529,7 +529,7 @@
   },
   {
     "id": "0x31b76c70c4213fdabc0ff8c9a27eebb78880884d",
-    "nombre": "Newton Montana",
+    "nombre": "-",
     "pointsHistory": [
       {
         "totalPoints": "21",
