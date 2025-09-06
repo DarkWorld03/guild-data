@@ -134,6 +134,36 @@
     ]
   },
   {
+    "id": "0xf3785c5d3e4d1d72c66c6bf07d25216bffc6b26d",
+    "nombre": "ALFREDO",
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
     "nombre": "CRuZ.mk | NKL",
     "pointsHistory": [
@@ -260,36 +290,6 @@
       {
         "totalPoints": "21",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xf3785c5d3e4d1d72c66c6bf07d25216bffc6b26d",
-    "nombre": "ALFREDO",
-    "pointsHistory": [
-      {
-        "totalPoints": "24",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-06"
       }
     ]
   },
@@ -560,28 +560,7 @@
   {
     "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
     "nombre": "DC: GregorNKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      }
-    ]
+    "pointsHistory": []
   },
   {
     "id": "0xcd687083dd00e552e6cb12b322215a299bf9c2be",
@@ -1002,28 +981,7 @@
   {
     "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
     "nombre": "AJB.PMC",
-    "pointsHistory": [
-      {
-        "totalPoints": "21",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      }
-    ]
+    "pointsHistory": []
   },
   {
     "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
