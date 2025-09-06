@@ -580,6 +580,36 @@
     ]
   },
   {
+    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+    "nombre": "Maximo",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
     "nombre": "ZirAlamino",
     "pointsHistory": [
@@ -718,6 +748,10 @@
       {
         "totalPoints": "18",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -774,36 +808,6 @@
       {
         "totalPoints": "15",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
-    "nombre": "Maximo",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-09-06"
       }
     ]
   },
@@ -942,6 +946,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -1188,6 +1196,36 @@
     ]
   },
   {
+    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
+    "nombre": "Elmer Noa Palma",
+    "pointsHistory": [
+      {
+        "totalPoints": "6",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
     "nombre": "Chucky",
     "pointsHistory": [
@@ -1262,36 +1300,6 @@
       {
         "totalPoints": "21",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
-    "nombre": "Elmer Noa Palma",
-    "pointsHistory": [
-      {
-        "totalPoints": "6",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-09-06"
       }
     ]
   },
