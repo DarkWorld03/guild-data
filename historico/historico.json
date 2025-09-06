@@ -1400,28 +1400,6 @@
     ]
   },
   {
-    "id": "0x6cb36f461b4f27195b4172856cd5ec2e3ed100e7",
-    "nombre": "CUBAxie",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-04"
-      }
-    ]
-  },
-  {
     "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
     "nombre": "Maxifire | NKL",
     "pointsHistory": [
