@@ -1,31 +1,5 @@
 [
   {
-    "id": "0xb0d1e251e764a7c5162462047a834cf195bdf895",
-    "nombre": "Natx | NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "24",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0xeaa6198e89b864c1bf14ec1642b126858d4d4406",
     "nombre": "Rene |YAMI|",
     "pointsHistory": [
@@ -48,6 +22,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -74,6 +52,66 @@
       {
         "totalPoints": "28",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0xb0d1e251e764a7c5162462047a834cf195bdf895",
+    "nombre": "Natx | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
+    "nombre": "CRuZ.mk | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -102,7 +140,217 @@
         "date": "2025-09-05"
       },
       {
-        "totalPoints": "6",
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0xe7baa80fe00df50527bbdda8216e97bd23c2a5f1",
+    "nombre": "YTR - Wilmer",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
+    "nombre": "Crypto Queen",
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0xb320e67664d55128e4cff435321b2aa5d8e07280",
+    "nombre": "Dark World",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x424866df0d3809483029ff00de172b58f349ee40",
+    "nombre": "Carloseuc",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x15301feff97eb7014f3764e32c8f1fc581515bed",
+    "nombre": "Abrahan/NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
+    "nombre": "CHITOX DC: chitox00",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x3da532c1daf719a46f505fc0f64c0f4ad8e6e1f3",
+    "nombre": "Lunacian #5",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "21",
         "date": "2025-09-06"
       }
     ]
@@ -130,6 +378,36 @@
       {
         "totalPoints": "21",
         "date": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
+    "nombre": "DC: GregorNKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -164,15 +442,45 @@
     ]
   },
   {
-    "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
-    "nombre": "CRuZ.mk | NKL",
+    "id": "0xc43d79eb3b5959039e418a4b05a401e116f667f7",
+    "nombre": "vic",
     "pointsHistory": [
       {
-        "totalPoints": "24",
+        "totalPoints": "15",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "21",
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0xcd687083dd00e552e6cb12b322215a299bf9c2be",
+    "nombre": "DANNY_VZLA",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
         "date": "2025-09-02"
       },
       {
@@ -186,6 +494,10 @@
       {
         "totalPoints": "24",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -211,32 +523,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
-    "nombre": "Crypto Queen",
-    "pointsHistory": [
-      {
-        "totalPoints": "24",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "15",
         "date": "2025-09-05"
       }
     ]
@@ -268,32 +554,6 @@
     ]
   },
   {
-    "id": "0xb320e67664d55128e4cff435321b2aa5d8e07280",
-    "nombre": "Dark World",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0x66768b832f00d8d3ef4e1fe0ecb079fdb56eec19",
     "nombre": "DC: davemz. I NKL",
     "pointsHistory": [
@@ -320,71 +580,15 @@
     ]
   },
   {
-    "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
-    "nombre": "CHITOX DC: chitox00",
+    "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
+    "nombre": "ZirAlamino",
     "pointsHistory": [
       {
-        "totalPoints": "18",
+        "totalPoints": "12",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x424866df0d3809483029ff00de172b58f349ee40",
-    "nombre": "Carloseuc",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "2",
-        "date": "2025-09-06"
-      }
-    ]
-  },
-  {
-    "id": "0xe7baa80fe00df50527bbdda8216e97bd23c2a5f1",
-    "nombre": "YTR - Wilmer",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
+        "totalPoints": "12",
         "date": "2025-09-02"
       },
       {
@@ -392,25 +596,59 @@
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "21",
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "28",
+        "totalPoints": "18",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
       }
     ]
   },
   {
-    "id": "0x15301feff97eb7014f3764e32c8f1fc581515bed",
-    "nombre": "Abrahan/NKL",
+    "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
+    "nombre": "JG.07",
     "pointsHistory": [
       {
-        "totalPoints": "18",
+        "totalPoints": "9",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
+    "nombre": "KimchiKrazyKamuti",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
         "date": "2025-09-02"
       },
       {
@@ -418,12 +656,16 @@
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "24",
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "21",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -480,11 +722,11 @@
     ]
   },
   {
-    "id": "0xc43d79eb3b5959039e418a4b05a401e116f667f7",
-    "nombre": "vic",
+    "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
+    "nombre": "AJB.PMC",
     "pointsHistory": [
       {
-        "totalPoints": "15",
+        "totalPoints": "21",
         "date": "2025-09-01"
       },
       {
@@ -492,16 +734,20 @@
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "15",
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "18",
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "18",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -532,45 +778,49 @@
     ]
   },
   {
-    "id": "0x3da532c1daf719a46f505fc0f64c0f4ad8e6e1f3",
-    "nombre": "Lunacian #5",
+    "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
+    "nombre": "TAIKIRISI",
     "pointsHistory": [
       {
-        "totalPoints": "15",
+        "totalPoints": "18",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "15",
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "24",
-        "date": "2025-09-03"
-      },
-      {
         "totalPoints": "18",
-        "date": "2025-09-04"
+        "date": "2025-09-03"
       },
       {
         "totalPoints": "21",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "9",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
       }
     ]
   },
   {
-    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
-    "nombre": "DC: GregorNKL",
+    "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
+    "nombre": "QbanCrypto",
     "pointsHistory": [
       {
-        "totalPoints": "15",
+        "totalPoints": "18",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "12",
+        "totalPoints": "18",
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "10",
         "date": "2025-09-03"
       },
       {
@@ -578,34 +828,12 @@
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xcd687083dd00e552e6cb12b322215a299bf9c2be",
-    "nombre": "DANNY_VZLA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
         "totalPoints": "18",
-        "date": "2025-09-04"
+        "date": "2025-09-05"
       },
       {
         "totalPoints": "24",
-        "date": "2025-09-05"
+        "date": "2025-09-06"
       }
     ]
   },
@@ -714,6 +942,36 @@
     ]
   },
   {
+    "id": "0xe43f3d832f995f6fc27330b4e6937a3207bd1f67",
+    "nombre": "Lunacian #25834955",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xb7f131dd2ea0a045b4d50654fe9cc6aba44e088a",
     "nombre": "Mike Beca",
     "pointsHistory": [
@@ -792,6 +1050,36 @@
     ]
   },
   {
+    "id": "0x0104d390a72c22dd58794fe39400ab4970a31e0f",
+    "nombre": "Boaz | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xb62143eebcc86b225807db6462de90bccc213d84",
     "nombre": "José e",
     "pointsHistory": [
@@ -839,58 +1127,6 @@
       },
       {
         "totalPoints": "15",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
-    "nombre": "JG.07",
-    "pointsHistory": [
-      {
-        "totalPoints": "9",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
-    "nombre": "ZirAlamino",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
         "date": "2025-09-05"
       }
     ]
@@ -1000,84 +1236,6 @@
     ]
   },
   {
-    "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
-    "nombre": "AJB.PMC",
-    "pointsHistory": [
-      {
-        "totalPoints": "21",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
-    "nombre": "KimchiKrazyKamuti",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xe43f3d832f995f6fc27330b4e6937a3207bd1f67",
-    "nombre": "Lunacian #25834955",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
     "nombre": "+24",
     "pointsHistory": [
@@ -1099,84 +1257,6 @@
       },
       {
         "totalPoints": "21",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x0104d390a72c22dd58794fe39400ab4970a31e0f",
-    "nombre": "Boaz | NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
-    "nombre": "TAIKIRISI",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
-    "nombre": "QbanCrypto",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
         "date": "2025-09-05"
       }
     ]
@@ -1234,6 +1314,66 @@
     ]
   },
   {
+    "id": "0x97a30407f6f84d742082c03e925a7ea1b849abe1",
+    "nombre": "CarlosAlejandro",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x1d6ae25e6ca1ef49963538273db0bc6267a496d8",
+    "nombre": "Leonel",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
     "nombre": "Elmer Noa Palma",
     "pointsHistory": [
@@ -1282,6 +1422,62 @@
     ]
   },
   {
+    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
+    "nombre": "Maxifire | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x6deb4307580758b9499dcd9b0f3937918ca0ffa0",
+    "nombre": "DC OFFER iamfreddiejose_04662",
+    "pointsHistory": [
+      {
+        "totalPoints": "3",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0x353a275229173f2c5f5fbcba179f64a9883642df",
     "nombre": "Pelayo",
     "pointsHistory": [
@@ -1303,32 +1499,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x1d6ae25e6ca1ef49963538273db0bc6267a496d8",
-    "nombre": "Leonel",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "8",
         "date": "2025-09-05"
       }
     ]
@@ -1360,32 +1530,6 @@
     ]
   },
   {
-    "id": "0x97a30407f6f84d742082c03e925a7ea1b849abe1",
-    "nombre": "CarlosAlejandro",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0xd7609f44c1a3bb1f341217e540e37a4e953dc327",
     "nombre": "TEAM POLLITO DC: estiloso2025",
     "pointsHistory": [
@@ -1403,54 +1547,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x6deb4307580758b9499dcd9b0f3937918ca0ffa0",
-    "nombre": "DC OFFER iamfreddiejose_04662",
-    "pointsHistory": [
-      {
-        "totalPoints": "3",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      }
-    ]
-  },
-  {
-    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
-    "nombre": "Maxifire | NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "20",
         "date": "2025-09-05"
       }
     ]
@@ -1478,6 +1574,10 @@
       {
         "totalPoints": "15",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -1496,6 +1596,10 @@
       {
         "totalPoints": "18",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -1520,7 +1624,7 @@
         "date": "2025-09-05"
       },
       {
-        "totalPoints": "6",
+        "totalPoints": "13",
         "date": "2025-09-06"
       }
     ]
