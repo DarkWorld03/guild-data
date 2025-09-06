@@ -78,32 +78,6 @@
     ]
   },
   {
-    "id": "0x6214f97a650cd45b56cac8d40e3415e00c54548a",
-    "nombre": "Espartaco",
-    "pointsHistory": [
-      {
-        "totalPoints": "21",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      }
-    ]
-  },
-  {
     "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
     "nombre": "⚡ Jayriuz ⚡",
     "pointsHistory": [
@@ -125,6 +99,36 @@
       },
       {
         "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "0x6214f97a650cd45b56cac8d40e3415e00c54548a",
+    "nombre": "Espartaco",
+    "pointsHistory": [
+      {
+        "totalPoints": "21",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
         "date": "2025-09-05"
       }
     ]
