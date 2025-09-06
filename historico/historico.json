@@ -778,6 +778,36 @@
     ]
   },
   {
+    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+    "nombre": "Maximo",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xdb5f033fa6d1dd9ac568ecefa08a0d9ebac76d8f",
     "nombre": "TAIKIRISI",
     "pointsHistory": [
@@ -886,36 +916,6 @@
       {
         "totalPoints": "20",
         "date": "2025-09-05"
-      }
-    ]
-  },
-  {
-    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
-    "nombre": "Maximo",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-09-06"
       }
     ]
   },
