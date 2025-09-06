@@ -912,6 +912,10 @@
       {
         "totalPoints": "20",
         "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-06"
       }
     ]
   },
@@ -1262,6 +1266,36 @@
     ]
   },
   {
+    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
+    "nombre": "Elmer Noa Palma",
+    "pointsHistory": [
+      {
+        "totalPoints": "6",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
     "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
     "nombre": "Storm2206 | Nova",
     "pointsHistory": [
@@ -1369,36 +1403,6 @@
       },
       {
         "totalPoints": "9",
-        "date": "2025-09-06"
-      }
-    ]
-  },
-  {
-    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
-    "nombre": "Elmer Noa Palma",
-    "pointsHistory": [
-      {
-        "totalPoints": "6",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-06"
       }
     ]
