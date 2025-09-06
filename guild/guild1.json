@@ -2,6 +2,11 @@
   "guildName": "Nik3LodeuM | NkL",
   "players": [
     {
+      "name": "Natx NKL",
+      "id": "0xb0d1e251e764a7c5162462047a834cf195bdf895",
+      "points": "193"
+    },
+    {
       "name": "RGKRené | NKL | 😁",
       "id": "0xeaa6198e89b864c1bf14ec1642b126858d4d4406",
       "points": "182"
@@ -12,9 +17,9 @@
       "points": "175"
     },
     {
-      "name": "Natx NKL",
-      "id": "0xb0d1e251e764a7c5162462047a834cf195bdf895",
-      "points": "173"
+      "name": "Espartaco.ron | NKL",
+      "id": "0x6214f97a650cd45b56cac8d40e3415e00c54548a",
+      "points": "164"
     },
     {
       "name": "Jayriuz / NKL",
@@ -22,9 +27,19 @@
       "points": "163"
     },
     {
+      "name": "CRuZ.mk | NKL",
+      "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
+      "points": "162"
+    },
+    {
       "name": "Killua_NKL",
       "id": "0x1fe0f30f6eab49885df6959608b7bced6dd6f03d",
       "points": "155"
+    },
+    {
+      "name": "Crypto Queen NKL",
+      "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
+      "points": "154"
     },
     {
       "name": "DC: NewtonMontana | NKL",
@@ -67,19 +82,29 @@
       "points": "148"
     },
     {
+      "name": "ChA0S l NKL",
+      "id": "0xc61220133c14c750b7a92e8e14901e4234210a79",
+      "points": "147"
+    },
+    {
       "name": "Pepitonas en Salsa Picante | NKL",
       "id": "0xcabe6ba28af47992f7324e370ef03d0cc8e8de61",
       "points": "146"
     },
     {
-      "name": "spotsansa |",
-      "id": "0x3da532c1daf719a46f505fc0f64c0f4ad8e6e1f3",
+      "name": "vic / nkl",
+      "id": "0xc43d79eb3b5959039e418a4b05a401e116f667f7",
+      "points": "145"
+    },
+    {
+      "name": "KodaFoca#Foca",
+      "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
       "points": "144"
     },
     {
-      "name": "Espartaco.ron | NKL",
-      "id": "0x6214f97a650cd45b56cac8d40e3415e00c54548a",
-      "points": "143"
+      "name": "spotsansa |",
+      "id": "0x3da532c1daf719a46f505fc0f64c0f4ad8e6e1f3",
+      "points": "144"
     },
     {
       "name": "DC: GregorNKL",
@@ -92,13 +117,18 @@
       "points": "141"
     },
     {
-      "name": "Crypto Queen NKL",
-      "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
+      "name": "Genzo | NKL",
+      "id": "0x44a19a0320e966745d35021aa276e9e7ddb35a3c",
       "points": "139"
     },
     {
-      "name": "CRuZ.mk | NKL",
-      "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
+      "name": "Vialex / NKL",
+      "id": "0x2459f712f778f0072718ec3392e343732eff179b",
+      "points": "139"
+    },
+    {
+      "name": "Maximo",
+      "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
       "points": "138"
     },
     {
@@ -112,8 +142,8 @@
       "points": "134"
     },
     {
-      "name": "Maximo",
-      "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+      "name": "Bailongis l NKL",
+      "id": "0xe70b834e53bc41cd01e7b406fd059b87de69cda0",
       "points": "134"
     },
     {
@@ -127,28 +157,33 @@
       "points": "133"
     },
     {
+      "name": "GodLaw /NKL",
+      "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
+      "points": "133"
+    },
+    {
+      "name": "Crisis |",
+      "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
+      "points": "132"
+    },
+    {
       "name": "ZirAlamino | NKL",
       "id": "0xbaf4562ba4e70b1d04b864f8853f19c0527ae3de",
       "points": "131"
     },
     {
-      "name": "KodaFoca#Foca",
-      "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
-      "points": "129"
-    },
-    {
-      "name": "vic / nkl",
-      "id": "0xc43d79eb3b5959039e418a4b05a401e116f667f7",
-      "points": "129"
+      "name": "Mekensis NkL",
+      "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
+      "points": "130"
     },
     {
       "name": "Chri$ | NKL",
       "id": "0x51840ee4870e97c791e4ea4319fe370098eaeddf",
-      "points": "128"
+      "points": "130"
     },
     {
-      "name": "ChA0S l NKL",
-      "id": "0xc61220133c14c750b7a92e8e14901e4234210a79",
+      "name": "Chucky",
+      "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
       "points": "128"
     },
     {
@@ -157,8 +192,8 @@
       "points": "127"
     },
     {
-      "name": "Mekensis NkL",
-      "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
+      "name": "ROMPE ANOS",
+      "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
       "points": "126"
     },
     {
@@ -172,19 +207,14 @@
       "points": "125"
     },
     {
+      "name": "Revolut1on| NKL",
+      "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
+      "points": "123"
+    },
+    {
       "name": "Boaz | NKL",
       "id": "0x0104d390a72c22dd58794fe39400ab4970a31e0f",
       "points": "121"
-    },
-    {
-      "name": "Bailongis l NKL",
-      "id": "0xe70b834e53bc41cd01e7b406fd059b87de69cda0",
-      "points": "119"
-    },
-    {
-      "name": "Vialex / NKL",
-      "id": "0x2459f712f778f0072718ec3392e343732eff179b",
-      "points": "119"
     },
     {
       "name": "TAIKIRISI | NKL",
@@ -192,24 +222,19 @@
       "points": "119"
     },
     {
-      "name": "GodLaw /NKL",
-      "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
-      "points": "118"
-    },
-    {
       "name": "QbanCrypto | NkL",
       "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
       "points": "117"
     },
     {
-      "name": "Chucky",
-      "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
-      "points": "116"
+      "name": "Storm2206 | Nova",
+      "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
+      "points": "117"
     },
     {
-      "name": "Genzo | NKL",
-      "id": "0x44a19a0320e966745d35021aa276e9e7ddb35a3c",
-      "points": "115"
+      "name": "Arepa_Gaming | NKL | arepa1.ron",
+      "id": "0x29a07da40e15dbf4302d676173a52e9e1f02ce30",
+      "points": "116"
     },
     {
       "name": "nO@/NKL",
@@ -222,19 +247,9 @@
       "points": "112"
     },
     {
-      "name": "Crisis |",
-      "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
-      "points": "111"
-    },
-    {
       "name": "En Sabah Nur",
       "id": "0x353a275229173f2c5f5fbcba179f64a9883642df",
       "points": "109"
-    },
-    {
-      "name": "ROMPE ANOS",
-      "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
-      "points": "108"
     },
     {
       "name": "Pikachu",
@@ -242,8 +257,8 @@
       "points": "106"
     },
     {
-      "name": "Revolut1on| NKL",
-      "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
+      "name": "GG NKL",
+      "id": "0x4247fc0ed8655b6a5b92d1c3b27e767f4fe2ad77",
       "points": "102"
     },
     {
@@ -252,19 +267,9 @@
       "points": "101"
     },
     {
-      "name": "Storm2206 | Nova",
-      "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
-      "points": "99"
-    },
-    {
-      "name": "GG NKL",
-      "id": "0x4247fc0ed8655b6a5b92d1c3b27e767f4fe2ad77",
+      "name": "JESUS MENDOZA | NOVA",
+      "id": "0xd7609f44c1a3bb1f341217e540e37a4e953dc327",
       "points": "96"
-    },
-    {
-      "name": "Arepa_Gaming | NKL | arepa1.ron",
-      "id": "0x29a07da40e15dbf4302d676173a52e9e1f02ce30",
-      "points": "95"
     },
     {
       "name": "IamFreddie I NKL",
@@ -275,11 +280,6 @@
       "name": "Maxifire | NKL",
       "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
       "points": "86"
-    },
-    {
-      "name": "JESUS MENDOZA | NOVA",
-      "id": "0xd7609f44c1a3bb1f341217e540e37a4e953dc327",
-      "points": "78"
     },
     {
       "name": "Daniel | NKL",
