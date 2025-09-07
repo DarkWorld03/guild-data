@@ -160,7 +160,7 @@
         "date": "2025-09-06"
       },
       {
-        "totalPoints": "12",
+        "totalPoints": "16",
         "date": "2025-09-07"
       }
     ]
@@ -702,6 +702,40 @@
     ]
   },
   {
+    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+    "nombre": "Maximo",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-07"
+      }
+    ]
+  },
+  {
     "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
     "nombre": "KodaFoca#Foca",
     "pointsHistory": [
@@ -800,35 +834,35 @@
     ]
   },
   {
-    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
-    "nombre": "Maximo",
+    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
+    "nombre": "KimchiKrazyKamuti",
     "pointsHistory": [
       {
-        "totalPoints": "16",
+        "totalPoints": "15",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "12",
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "18",
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "24",
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "21",
         "date": "2025-09-05"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "21",
         "date": "2025-09-06"
       },
       {
-        "totalPoints": "13",
+        "totalPoints": "16",
         "date": "2025-09-07"
       }
     ]
@@ -924,40 +958,6 @@
       {
         "totalPoints": "13",
         "date": "2025-09-06"
-      }
-    ]
-  },
-  {
-    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
-    "nombre": "KimchiKrazyKamuti",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
       }
     ]
   },
