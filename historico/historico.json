@@ -932,6 +932,40 @@
     ]
   },
   {
+    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
+    "nombre": "GodLaw",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      }
+    ]
+  },
+  {
     "id": "0xcabe6ba28af47992f7324e370ef03d0cc8e8de61",
     "nombre": "Antonio | NKL🇻🇪",
     "pointsHistory": [
@@ -1146,40 +1180,6 @@
     ]
   },
   {
-    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
-    "nombre": "GodLaw",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-07"
-      }
-    ]
-  },
-  {
     "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
     "nombre": "JG.07",
     "pointsHistory": [
@@ -1356,6 +1356,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-07"
       }
     ]
   },
