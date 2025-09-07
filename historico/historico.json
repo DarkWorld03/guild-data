@@ -818,6 +818,40 @@
     ]
   },
   {
+    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
+    "nombre": "KimchiKrazyKamuti",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-07"
+      }
+    ]
+  },
+  {
     "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
     "nombre": "pulperoMA",
     "pointsHistory": [
@@ -994,40 +1028,6 @@
       {
         "totalPoints": "16",
         "date": "2025-09-06"
-      }
-    ]
-  },
-  {
-    "id": "0xab8b2ac0ee4dd6e8a4dd1ff82990c27046cd7b37",
-    "nombre": "KimchiKrazyKamuti",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "4",
-        "date": "2025-09-07"
       }
     ]
   },
