@@ -200,6 +200,40 @@
     ]
   },
   {
+    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
+    "nombre": "⚡ Jayriuz ⚡",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-07"
+      }
+    ]
+  },
+  {
     "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
     "nombre": "CHITOX DC: chitox00",
     "pointsHistory": [
@@ -263,40 +297,6 @@
       },
       {
         "totalPoints": "21",
-        "date": "2025-09-07"
-      }
-    ]
-  },
-  {
-    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
-    "nombre": "⚡ Jayriuz ⚡",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "8",
         "date": "2025-09-07"
       }
     ]
