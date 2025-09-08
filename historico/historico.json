@@ -34,40 +34,6 @@
     ]
   },
   {
-    "id": "0x2ea0f9e357dad92e7822763a5b9de0f686899f61",
-    "nombre": "Nik3LodeuM23",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-07"
-      }
-    ]
-  },
-  {
     "id": "0xeaa6198e89b864c1bf14ec1642b126858d4d4406",
     "nombre": "Rene |YAMI|",
     "pointsHistory": [
@@ -102,6 +68,40 @@
       {
         "totalPoints": "10",
         "date": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "id": "0x2ea0f9e357dad92e7822763a5b9de0f686899f61",
+    "nombre": "Nik3LodeuM23",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-07"
       }
     ]
   },
