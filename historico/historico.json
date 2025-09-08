@@ -316,7 +316,36 @@
   {
     "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
     "nombre": "Crypto Queen",
-    "pointsHistory": []
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-07"
+      }
+    ]
   },
   {
     "id": "0x523a6ca8c09f0653f8b69ce09d3f3d1d2f714101",
