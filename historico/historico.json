@@ -1222,6 +1222,40 @@
     ]
   },
   {
+    "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
+    "nombre": "Storm2206 | Nova",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      }
+    ]
+  },
+  {
     "id": "0x7cf2580488e593e4dbbe451efb9fa3af06ccb4a2",
     "nombre": "JG.07",
     "pointsHistory": [
@@ -1401,40 +1435,6 @@
       },
       {
         "totalPoints": "8",
-        "date": "2025-09-07"
-      }
-    ]
-  },
-  {
-    "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
-    "nombre": "Storm2206 | Nova",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-07"
       }
     ]
