@@ -542,6 +542,48 @@
     ]
   },
   {
+    "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
+    "nombre": "CRuZ.mk | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "24",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0xb62143eebcc86b225807db6462de90bccc213d84",
     "nombre": "José e",
     "pointsHistory": [
@@ -626,23 +668,23 @@
     ]
   },
   {
-    "id": "0xb72500219f74e5782a79967ecdfa74decd771048",
-    "nombre": "CRuZ.mk | NKL",
+    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
+    "nombre": "DC: GregorNKL",
     "pointsHistory": [
       {
-        "totalPoints": "24",
+        "totalPoints": "15",
         "date": "2025-09-01"
       },
       {
-        "totalPoints": "21",
+        "totalPoints": "12",
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "15",
+        "totalPoints": "18",
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "18",
+        "totalPoints": "15",
         "date": "2025-09-04"
       },
       {
@@ -658,8 +700,12 @@
         "date": "2025-09-07"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "24",
         "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-09"
       }
     ]
   },
@@ -743,48 +789,6 @@
       },
       {
         "totalPoints": "21",
-        "date": "2025-09-09"
-      }
-    ]
-  },
-  {
-    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
-    "nombre": "DC: GregorNKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-09"
       }
     ]
@@ -984,6 +988,48 @@
       {
         "totalPoints": "24",
         "date": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
+    "nombre": "GodLaw",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-09"
       }
     ]
   },
@@ -1392,44 +1438,6 @@
       {
         "totalPoints": "18",
         "date": "2025-09-09"
-      }
-    ]
-  },
-  {
-    "id": "0x8337ed44991b901307211ac3e685a2e569de02ab",
-    "nombre": "GodLaw",
-    "pointsHistory": [
-      {
-        "totalPoints": "16",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-08"
       }
     ]
   },
