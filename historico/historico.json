@@ -1145,7 +1145,7 @@
   },
   {
     "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
-    "nombre": "KodaFoca#Foca",
+    "nombre": "-",
     "pointsHistory": [
       {
         "totalPoints": "18",
@@ -1296,6 +1296,48 @@
     ]
   },
   {
+    "id": "0xe43f3d832f995f6fc27330b4e6937a3207bd1f67",
+    "nombre": "Lunacian #25834955",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "9",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
     "nombre": "Chucky",
     "pointsHistory": [
@@ -1406,48 +1448,6 @@
       {
         "totalPoints": "21",
         "date": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "0xe43f3d832f995f6fc27330b4e6937a3207bd1f67",
-    "nombre": "Lunacian #25834955",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "9",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "4",
-        "date": "2025-09-09"
       }
     ]
   },
