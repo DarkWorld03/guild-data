@@ -1220,6 +1220,10 @@
       {
         "totalPoints": "20",
         "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-09"
       }
     ]
   },
@@ -1734,6 +1738,48 @@
     ]
   },
   {
+    "id": "0x353a275229173f2c5f5fbcba179f64a9883642df",
+    "nombre": "Pelayo",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0x7daf72d958475c8ecf0fd483a586341db60c1a6e",
     "nombre": "Tu Orto ROTO",
     "pointsHistory": [
@@ -1882,48 +1928,6 @@
       {
         "totalPoints": "16",
         "date": "2025-09-07"
-      }
-    ]
-  },
-  {
-    "id": "0x353a275229173f2c5f5fbcba179f64a9883642df",
-    "nombre": "Pelayo",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-09-09"
       }
     ]
   },
