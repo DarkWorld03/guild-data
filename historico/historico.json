@@ -120,7 +120,7 @@
         "date": "2025-09-08"
       },
       {
-        "totalPoints": "13",
+        "totalPoints": "16",
         "date": "2025-09-09"
       }
     ]
@@ -748,6 +748,48 @@
     ]
   },
   {
+    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
+    "nombre": "DC: GregorNKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0x2dfef9a67f5afa2c4a4082fed081ed6c39bd0273",
     "nombre": "Crypto Queen",
     "pointsHistory": [
@@ -861,44 +903,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "0xf4ed33254edcb7d0be6137cf790e9939aa6d9caf",
-    "nombre": "DC: GregorNKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "24",
         "date": "2025-09-08"
       }
     ]
