@@ -1278,6 +1278,48 @@
     ]
   },
   {
+    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
+    "nombre": "Chucky",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0xc87ad0d786df8cfeb50178dff8aa1532e920da36",
     "nombre": "QbanCrypto",
     "pointsHistory": [
@@ -1476,48 +1518,6 @@
       {
         "totalPoints": "16",
         "date": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
-    "nombre": "Chucky",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-09"
       }
     ]
   },
