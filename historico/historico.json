@@ -984,6 +984,48 @@
     ]
   },
   {
+    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
+    "nombre": "Neomakensis",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0xc228242cd2e7379a78f35fdc6ed1e580aa152d38",
     "nombre": "Mikel Rage",
     "pointsHistory": [
@@ -1262,44 +1304,6 @@
       {
         "totalPoints": "12",
         "date": "2025-09-09"
-      }
-    ]
-  },
-  {
-    "id": "0x32bc9abef18232504fe1b20c2440f14adaa16dcb",
-    "nombre": "Neomakensis",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-08"
       }
     ]
   },
@@ -1916,6 +1920,10 @@
       {
         "totalPoints": "24",
         "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-09"
       }
     ]
   },
