@@ -1158,6 +1158,44 @@
     ]
   },
   {
+    "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
+    "nombre": "AJB.PMC",
+    "pointsHistory": [
+      {
+        "totalPoints": "21",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      }
+    ]
+  },
+  {
     "id": "0x2459f712f778f0072718ec3392e343732eff179b",
     "nombre": "Vialex",
     "pointsHistory": [
@@ -1297,44 +1335,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-08"
-      }
-    ]
-  },
-  {
-    "id": "0xb255f1e58257bb3382b04feb9a25388423b21498",
-    "nombre": "AJB.PMC",
-    "pointsHistory": [
-      {
-        "totalPoints": "21",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
         "date": "2025-09-08"
       }
     ]
