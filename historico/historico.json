@@ -1480,6 +1480,48 @@
     ]
   },
   {
+    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
+    "nombre": "Chucky",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
     "nombre": "KodaFoca#Foca",
     "pointsHistory": [
@@ -1555,48 +1597,6 @@
       },
       {
         "totalPoints": "20",
-        "date": "2025-09-09"
-      }
-    ]
-  },
-  {
-    "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
-    "nombre": "Chucky",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "2",
         "date": "2025-09-09"
       }
     ]
@@ -1716,44 +1716,6 @@
     ]
   },
   {
-    "id": "0x44a19a0320e966745d35021aa276e9e7ddb35a3c",
-    "nombre": "Genzo",
-    "pointsHistory": [
-      {
-        "totalPoints": "12",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "4",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-08"
-      }
-    ]
-  },
-  {
     "id": "0x353a275229173f2c5f5fbcba179f64a9883642df",
     "nombre": "Pelayo",
     "pointsHistory": [
@@ -1792,6 +1754,44 @@
       {
         "totalPoints": "8",
         "date": "2025-09-09"
+      }
+    ]
+  },
+  {
+    "id": "0x44a19a0320e966745d35021aa276e9e7ddb35a3c",
+    "nombre": "Genzo",
+    "pointsHistory": [
+      {
+        "totalPoints": "12",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "4",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-08"
       }
     ]
   },
