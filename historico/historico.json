@@ -1782,44 +1782,6 @@
     ]
   },
   {
-    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
-    "nombre": "Elmer Noa Palma",
-    "pointsHistory": [
-      {
-        "totalPoints": "6",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-08"
-      }
-    ]
-  },
-  {
     "id": "0xe77e01305722bbe056cd61b148f482604781fa18",
     "nombre": "+24",
     "pointsHistory": [
@@ -1853,6 +1815,44 @@
       },
       {
         "totalPoints": "10",
+        "date": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "id": "0xfa16c7de3150b1699f3c3fefc910d68904db3681",
+    "nombre": "Elmer Noa Palma",
+    "pointsHistory": [
+      {
+        "totalPoints": "6",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "15",
         "date": "2025-09-08"
       }
     ]
