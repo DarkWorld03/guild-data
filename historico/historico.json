@@ -820,6 +820,48 @@
     ]
   },
   {
+    "id": "0x1fe0f30f6eab49885df6959608b7bced6dd6f03d",
+    "nombre": "Killua_NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-09"
+      }
+    ]
+  },
+  {
     "id": "0xb320e67664d55128e4cff435321b2aa5d8e07280",
     "nombre": "Dark World",
     "pointsHistory": [
