@@ -1970,6 +1970,52 @@
     ]
   },
   {
+    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
+    "nombre": "Maxifire | NKL",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-10"
+      }
+    ]
+  },
+  {
     "id": "0x29a07da40e15dbf4302d676173a52e9e1f02ce30",
     "nombre": "Arepa_Gaming | NKL",
     "pointsHistory": [
@@ -2088,52 +2134,6 @@
       {
         "totalPoints": "21",
         "date": "2025-09-09"
-      }
-    ]
-  },
-  {
-    "id": "0xd56c1858efd8f8e1c1545e91fa0f126bac509054",
-    "nombre": "Maxifire | NKL",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-10"
       }
     ]
   },
