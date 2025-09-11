@@ -1564,6 +1564,56 @@
     ]
   },
   {
+    "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
+    "nombre": "KodaFoca#Foca",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-11"
+      }
+    ]
+  },
+  {
     "id": "0xb7f131dd2ea0a045b4d50654fe9cc6aba44e088a",
     "nombre": "Mike Beca",
     "pointsHistory": [
@@ -1747,52 +1797,6 @@
       },
       {
         "totalPoints": "21",
-        "date": "2025-09-10"
-      }
-    ]
-  },
-  {
-    "id": "0xb81c6de8090e5ab91097b7876be35f6b4fdf6f9e",
-    "nombre": "KodaFoca#Foca",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "6",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "20",
         "date": "2025-09-10"
       }
     ]
