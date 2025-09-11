@@ -1614,6 +1614,56 @@
     ]
   },
   {
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-11"
+      }
+    ]
+  },
+  {
     "id": "0xb7f131dd2ea0a045b4d50654fe9cc6aba44e088a",
     "nombre": "Mike Beca",
     "pointsHistory": [
@@ -1705,52 +1755,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-10"
-      }
-    ]
-  },
-  {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "21",
         "date": "2025-09-10"
       }
     ]
