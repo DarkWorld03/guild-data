@@ -410,6 +410,52 @@
     ]
   },
   {
+    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
+    "nombre": "⚡ Jayriuz ⚡",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-10"
+      }
+    ]
+  },
+  {
     "id": "0x31b76c70c4213fdabc0ff8c9a27eebb78880884d",
     "nombre": "Newton Montana",
     "pointsHistory": [
@@ -589,52 +635,6 @@
       },
       {
         "totalPoints": "8",
-        "date": "2025-09-10"
-      }
-    ]
-  },
-  {
-    "id": "0x1357c54288a6ddb65a9d29738603134da42213d3",
-    "nombre": "⚡ Jayriuz ⚡",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-10"
       }
     ]
@@ -1120,7 +1120,7 @@
         "date": "2025-09-09"
       },
       {
-        "totalPoints": "8",
+        "totalPoints": "13",
         "date": "2025-09-10"
       }
     ]
