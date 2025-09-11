@@ -1272,6 +1272,56 @@
     ]
   },
   {
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-11"
+      }
+    ]
+  },
+  {
     "id": "0x6889fd27c191cddb57fa354da6ca039cb7d74ef1",
     "nombre": "Chucky",
     "pointsHistory": [
@@ -1414,55 +1464,9 @@
       {
         "totalPoints": "24",
         "date": "2025-09-10"
-      }
-    ]
-  },
-  {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
       },
       {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-10"
-      },
-      {
-        "totalPoints": "16",
+        "totalPoints": "8",
         "date": "2025-09-11"
       }
     ]
@@ -2094,6 +2098,56 @@
     ]
   },
   {
+    "id": "0x7daf72d958475c8ecf0fd483a586341db60c1a6e",
+    "nombre": "Tu Orto ROTO",
+    "pointsHistory": [
+      {
+        "totalPoints": "6",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "8",
+        "date": "2025-09-11"
+      }
+    ]
+  },
+  {
     "id": "0xd7609f44c1a3bb1f341217e540e37a4e953dc327",
     "nombre": "TEAM POLLITO DC: estiloso2025",
     "pointsHistory": [
@@ -2182,52 +2236,6 @@
       {
         "totalPoints": "20",
         "date": "2025-09-11"
-      }
-    ]
-  },
-  {
-    "id": "0x7daf72d958475c8ecf0fd483a586341db60c1a6e",
-    "nombre": "Tu Orto ROTO",
-    "pointsHistory": [
-      {
-        "totalPoints": "6",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "20",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "8",
-        "date": "2025-09-10"
       }
     ]
   },
