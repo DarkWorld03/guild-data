@@ -1546,6 +1546,60 @@
     ]
   },
   {
+    "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
+    "nombre": "Storm2206 | Nova",
+    "pointsHistory": [
+      {
+        "totalPoints": "15",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-12"
+      }
+    ]
+  },
+  {
     "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
     "nombre": "pulperoMA",
     "pointsHistory": [
@@ -1742,60 +1796,6 @@
       {
         "totalPoints": "16",
         "date": "2025-09-11"
-      }
-    ]
-  },
-  {
-    "id": "0xaa038646268e8d6a53783769eef6b1891c93775d",
-    "nombre": "Storm2206 | Nova",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "21",
-        "date": "2025-09-10"
-      },
-      {
-        "totalPoints": "18",
-        "date": "2025-09-11"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-12"
       }
     ]
   },
