@@ -590,6 +590,60 @@
     ]
   },
   {
+    "id": "0xe7baa80fe00df50527bbdda8216e97bd23c2a5f1",
+    "nombre": "YTR - Wilmer",
+    "pointsHistory": [
+      {
+        "totalPoints": "18",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "10",
+        "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-12"
+      }
+    ]
+  },
+  {
     "id": "0xb62143eebcc86b225807db6462de90bccc213d84",
     "nombre": "José e",
     "pointsHistory": [
@@ -693,60 +747,6 @@
       },
       {
         "totalPoints": "18",
-        "date": "2025-09-12"
-      }
-    ]
-  },
-  {
-    "id": "0xe7baa80fe00df50527bbdda8216e97bd23c2a5f1",
-    "nombre": "YTR - Wilmer",
-    "pointsHistory": [
-      {
-        "totalPoints": "18",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "12",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "28",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-09"
-      },
-      {
-        "totalPoints": "24",
-        "date": "2025-09-10"
-      },
-      {
-        "totalPoints": "10",
-        "date": "2025-09-11"
-      },
-      {
-        "totalPoints": "6",
         "date": "2025-09-12"
       }
     ]
