@@ -532,6 +532,10 @@
       {
         "totalPoints": "21",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -852,6 +856,10 @@
       {
         "totalPoints": "24",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1116,7 +1124,61 @@
         "date": "2025-09-11"
       },
       {
-        "totalPoints": "6",
+        "totalPoints": "12",
+        "date": "2025-09-12"
+      }
+    ]
+  },
+  {
+    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
+    "nombre": "Maximo",
+    "pointsHistory": [
+      {
+        "totalPoints": "16",
+        "date": "2025-09-01"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-02"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-03"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-04"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-05"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-06"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-07"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-08"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-09"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-10"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "16",
         "date": "2025-09-12"
       }
     ]
@@ -1276,6 +1338,10 @@
       {
         "totalPoints": "15",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1326,6 +1392,10 @@
       {
         "totalPoints": "21",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "18",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1378,17 +1448,17 @@
         "date": "2025-09-11"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "20",
         "date": "2025-09-12"
       }
     ]
   },
   {
-    "id": "0x1af70476f7dc989d3da57a54d64ce65403e66f3e",
-    "nombre": "Maximo",
+    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
+    "nombre": "pulperoMA",
     "pointsHistory": [
       {
-        "totalPoints": "16",
+        "totalPoints": "15",
         "date": "2025-09-01"
       },
       {
@@ -1396,19 +1466,19 @@
         "date": "2025-09-02"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "15",
         "date": "2025-09-03"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "15",
         "date": "2025-09-04"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "16",
         "date": "2025-09-05"
       },
       {
-        "totalPoints": "16",
+        "totalPoints": "13",
         "date": "2025-09-06"
       },
       {
@@ -1416,20 +1486,24 @@
         "date": "2025-09-07"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "16",
         "date": "2025-09-08"
       },
       {
-        "totalPoints": "20",
+        "totalPoints": "15",
         "date": "2025-09-09"
       },
       {
-        "totalPoints": "13",
+        "totalPoints": "21",
         "date": "2025-09-10"
       },
       {
-        "totalPoints": "24",
+        "totalPoints": "16",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "13",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1480,6 +1554,10 @@
       {
         "totalPoints": "12",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1530,6 +1608,10 @@
       {
         "totalPoints": "20",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1688,6 +1770,10 @@
       {
         "totalPoints": "24",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "28",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1846,6 +1932,10 @@
       {
         "totalPoints": "24",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -1896,59 +1986,9 @@
       {
         "totalPoints": "16",
         "date": "2025-09-11"
-      }
-    ]
-  },
-  {
-    "id": "0x2e92870440f56e7980475585ba2cb1c85314d236",
-    "nombre": "pulperoMA",
-    "pointsHistory": [
-      {
-        "totalPoints": "15",
-        "date": "2025-09-01"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-02"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-03"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-04"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-05"
-      },
-      {
-        "totalPoints": "13",
-        "date": "2025-09-06"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-07"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-08"
-      },
-      {
-        "totalPoints": "15",
-        "date": "2025-09-09"
       },
       {
         "totalPoints": "21",
-        "date": "2025-09-10"
-      },
-      {
-        "totalPoints": "16",
-        "date": "2025-09-11"
-      },
-      {
-        "totalPoints": "13",
         "date": "2025-09-12"
       }
     ]
@@ -2000,6 +2040,10 @@
       {
         "totalPoints": "15",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2104,6 +2148,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2154,6 +2202,10 @@
       {
         "totalPoints": "12",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "20",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2204,6 +2256,10 @@
       {
         "totalPoints": "21",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2354,6 +2410,10 @@
       {
         "totalPoints": "15",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "6",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2508,6 +2568,10 @@
       {
         "totalPoints": "16",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2558,6 +2622,10 @@
       {
         "totalPoints": "20",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "16",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2604,6 +2672,10 @@
       {
         "totalPoints": "21",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "12",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2762,6 +2834,10 @@
       {
         "totalPoints": "12",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "21",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2808,6 +2884,10 @@
       {
         "totalPoints": "6",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -2912,6 +2992,10 @@
       {
         "totalPoints": "21",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "15",
+        "date": "2025-09-12"
       }
     ]
   },
@@ -3034,6 +3118,10 @@
       {
         "totalPoints": "18",
         "date": "2025-09-11"
+      },
+      {
+        "totalPoints": "24",
+        "date": "2025-09-12"
       }
     ]
   }
